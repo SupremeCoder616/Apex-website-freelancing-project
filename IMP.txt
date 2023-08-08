@@ -1,0 +1,907 @@
+Apex Capital
+Enhance Your Future With
+
+<!-- <div class="btn">
+                    <a class="green" href="#">Learn More</a>
+                    <a class="white" href="#">Visit Courses</a>
+                </div> -->
+
+
+                <i class="fa-solid fa-circle-check"></i>
+
+
+                font-family: 'Source Sans Pro', sans-serif;
+
+                background-color: #e6e8e9e6;
+
+                transition: 0.3s ease;
+
+                color: rgb(233, 27, 27); 
+
+                rgb(103, 99, 99);
+
+
+
+                #home{
+    background-image: linear-gradient(rgba(9, 5, 54, 0.3),rgba(5,4,46,0.7)),url(img/home2.jpeg);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 40px;
+}
+
+
+color === #12a52b green
+
+#about-container{
+    display: flex;
+    align-items: center;
+    padding: 8vw 8vw 2vw 8vw;
+}
+
+#about-container .about-img{
+    width: 60%;
+    padding-right: 60px;
+}
+
+#about-container .about-img img{
+    width: 100%;
+}
+
+#about-container .about-text{
+    width: 40%;
+}
+
+#about-container .about-text h2{
+    color: #29303B;
+    padding-bottom: 15px;
+}
+
+#about-container .about-text p{
+    color: #686F7A;
+    font-weight: 300;
+}
+
+
+
+
+background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.9));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ----Our Services---- -->
+    <section id="our-courses">
+        <div class="vl"></div>
+        <div class="title-text">
+            <samp>&#x2022; OUR EXPERTISE</samp>
+            <h1>Our Courses</h1>
+        </div>
+
+        <div class="service-box1">
+            <!-- --------1------ -->
+            <div class="single-service1">
+                <img src="img/invest-1.jpg">
+                <!-- <div class="overlay1"></div>
+                <div class="service-desc1">
+                </div> -->
+                <h3>Basics of Stock Market</h3>
+            </div>
+            <!-- --------End------- -->
+            <!-- --------2------ -->
+            <div class="single-service1">
+                <img src="img/invest-1.jpg">
+                <div class="overlay"></div>
+                <div class="service-desc">
+                </div>
+                <h3>Fundamental Analysis</h3>
+            </div>
+            <!-- --------End------- -->
+            <!-- --------3------ -->
+            <div class="single-service1">
+                <img src="img/invest-1.jpg">
+                <div class="overlay"></div>
+                <div class="service-desc">
+                </div>
+                <h3>Technical Analysis</h3>
+            </div>
+            <!-- --------End------- -->
+            <!-- --------4------- -->
+            <div class="single-service1">
+                <img src="img/invest-1.jpg">
+                <div class="overlay"></div>
+                <div class="service-desc">
+                </div>
+                <h3 class="h3">Financial Risk Management</h3>
+            </div>
+            <!-- --------End------- -->
+        </div>
+    </section>
+    <!-- --------End------- -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .service-box1{
+    width: 60%;
+    box-sizing: border-box;
+    display: flex;
+    margin: 15px 20px 10px 5px; 
+    padding-left: 15px;
+}
+
+.single-service1{
+    flex-basis: 48%;
+    margin-bottom: 20px;
+}
+
+.single-service1:nth-child(1) h3{
+    margin: 15px 30px;
+}
+
+.single-service1:nth-child(2) h3{
+    margin: 15px 40px;
+}
+
+.single-service1:nth-child(4) h3{
+    margin: 15px 80px;
+    font-size: 22px;
+}
+
+.single-service1 h3{
+    color: #000000;
+    margin: 15px 60px;
+    font-size: 22px;
+    font-weight: 700;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.single-service1 img{
+    width: 270px;
+    height: 250px;
+    /* padding-left: 10px; */
+    /* padding-right: 5px; */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="feature" class="section-p1">
+        <!-- ------1------ -->
+        <div class="fe-box">
+            <img src="img/features/f1.png">
+            <h6>Free Shipping</h6>
+        </div>
+        <!-- -----End------ -->
+
+        <!-- ------2------ -->
+        <div class="fe-box">
+            <img src="img/features/f2.png">
+            <h6>Online Order</h6>
+        </div>
+        <!-- -----End------ -->
+
+        <!-- ------3------ -->
+        <div class="fe-box">
+            <img src="img/features/f3.png">
+            <h6>Save Money</h6>
+        </div>
+        <!-- -----End------ -->
+
+        <!-- ------4------ -->
+        <div class="fe-box">
+            <img src="img/features/f4.png">
+            <h6>Promotions</h6>
+        </div>
+        <!-- -----End------ -->
+
+        <!-- ------5------ -->
+        <div class="fe-box">
+            <img src="img/features/f5.png">
+            <h6>Happy Sell</h6>
+        </div>
+        <!-- -----End------ -->
+
+        <!-- ------6------ -->
+        <div class="fe-box">
+            <img src="img/features/f6.png">
+            <h6>F24/7 Support</h6>
+        </div>
+        <!-- -----End------ -->
+    </section>
+
+
+
+
+
+
+
+
+
+
+
+<!-- ------1------ -->
+        <div class="fe-box">
+            <img src="img/bsm.jpeg">
+            <h6>Free Shipping</h6>
+        </div>
+        <!-- -----End------ -->
+
+        <!-- ------2------ -->
+        <div class="fe-box">
+            <img src="img/features/f2.png">
+            <h6>Online Order</h6>
+        </div>
+        <!-- -----End------ -->
+
+        <!-- ------3------ -->
+        <div class="fe-box">
+            <img src="img/features/f3.png">
+            <h6>Save Money</h6>
+        </div>
+        <!-- -----End------ -->
+
+        <!-- ------4------ -->
+        <div class="fe-box">
+            <img src="img/features/f4.png">
+            <h6>Promotions</h6>
+        </div>
+        <!-- -----End------ -->
+
+
+
+
+
+
+
+
+
+
+
+#experts{
+    padding: 8vw 8vw 8vw 8vw;
+    text-align: center;
+}
+
+#experts .expert-box{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(250px, 1fr));
+    grid-gap: 1rem;
+    margin-top: 50px;
+}
+
+#experts .expert-box .profile{
+    background: #fafaf1;
+    padding: 30px 10px;
+}
+
+.pro-links{
+    margin-top: 10px;
+}
+
+.pro-links i{
+    padding: 10px 13px;
+    border: 1px solid rgb(21,21,100);
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+.pro-links i:hover{
+    background: rgb(21,21,100);
+    color: #fff;
+    border: 1px solid rgb(21,21,100);
+    cursor: pointer;
+}
+
+
+.title-text{
+    text-align: center;
+    padding-bottom: 70px;
+}
+
+
+.title-text samp{
+    margin: 5px auto;
+    font-size: 18px;
+    color: #12a52b;
+    font-weight: 300;
+    position: relative;
+    display: inline-block;
+}
+
+
+.title-text h1{
+    font-size: 50px;
+    font-weight: 600;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+
+
+#our-courses .asty{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 90px;
+}
+
+
+
+
+
+
+#our-courses .asty a{
+    text-decoration: none;
+    background: #12a52b;
+    color: #fff;
+    font-size: 22px;
+    font-family: 'Source Sans Pro', sans-serif;
+    padding: 20px;
+    border-radius: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+<!-- Navigation -->
+    <nav>
+        <img src="img/apex_capital.png">
+        <div class="navigation">
+            <ul>
+
+                <li><a class="active" href="index.html">Home</a></li>
+                <!-- ----End---- -->
+
+                <li><a href="about.html">About</a>
+                    <div class="sub-menu-1">
+                        <ul>
+                            <li><a href="">Our Team</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <!-- ----End---- -->
+                
+                <li><a href="blog.html">Our Services</a>
+                    <div class="sub-menu-1">
+                        <ul>
+                            <li><a href="">investment Advisory</a></li>
+                            <li><a href="">Broking</a></li>
+                            <li><a href="">Proprietary Trading Desk</a></li>
+                            <li><a href="">Education and Training</a></li>
+                        </ul>
+                    </div>
+                </li>
+                
+                <li><a href="courses.html">Our Courses</a>
+                    <div class="sub-menu-1">
+                        <ul>
+                            <li><a href="">Barics of Stock Market</a></li>
+                            <li><a href="">Fundamental Analysis</a></li>
+                            <li><a href="">Technical Analysis</a></li>
+                            <li><a href="">Financial Risk Mangement</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+    <!-- ----End---- -->
+
+
+
+
+    #12a52b;
+
+
+
+    rgba(0, 0, 0, 0.10)
+
+
+
+    nav .navigation ul li a.active,
+nav .navigation ul li a:hover{
+    color: #11da32;
+}
+
+nav .navigation ul li a:hover{
+    color: #12a52b;
+}
+
+
+
+
+
+
+
+
+
+#home h2 {
+    color: #fff;
+    /* height: 20px; */
+    font-size: 60px;
+    letter-spacing: 1px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    margin: 250px 8px 0px 8px;
+    /* box-sizing: border-box; */
+}
+
+
+#home span {
+    font-size: 90px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 100;
+    color: #e8e8e8;
+    text-align: center;
+    margin: 15px 8px 0px 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#home h2 {
+    color: #e8e8e8;
+    font-size: 30px;
+    letter-spacing: 1px;
+    font-weight: 300;
+    margin: 170px 8px 0px 8px;
+}
+
+#home span {
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 100;
+    color: #e8e8e8;
+    text-align: center;
+    margin: 15px 8px 0px 18px;
+}
+
+#home .ho1 {
+    display: flex;
+    flex-direction: column;
+}
+
+#home .ho1 a {
+    font-size: 17px;
+    font-weight: 500;
+    top: 20px;
+    flex-direction: column;
+}
+
+
+#home .ho1 p {
+    width: 100%;
+    color: #fff;
+    font-size: 24px;
+    line-height: 30px;
+    margin-top: 50px;
+    /* margin-left: 190px; */
+}
+
+
+box-shadow: 20px 20px 30px rgba(0,0,0,0.3);
+
+
+
+.profile img{
+    height: 400px;
+    width: 300px;
+    transition: 0.5s ease;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#about-home{
+    background-image: linear-gradient(rgba(9, 5, 54, 0.3),rgba(5,4,46,0.7)),url(img/working.jpeg);
+    width: 100%;
+    height: 60vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 40px;
+}
+
+#about-home{
+    color: #fff;
+    font-size: 2.2rem;
+    letter-spacing: 1px;
+    font-family: 'Source Sans Pro', sans-serif
+}
+
+#about-container-1{
+    display: flex;
+    align-items: center;
+    padding: 8vw 8vw 2vw 2vw;
+    transition: 0.3s ease;
+}
+
+#about-container-1:hover{
+    box-shadow: 20px 20px 30px rgba(0,0,0,0.3);
+}
+
+#about-container-1 .about-img{
+    width: 50%;
+    padding-right: 60px;
+}
+
+#about-container-1 .about-img img{
+    width: 100%;
+}
+
+#about-container-1 .about-text{
+    width: 60%;
+}
+
+#about-container-1 .about-text{
+    font-family: 'Source Sans Pro', sans-serif
+}
+
+#about-container-1 .about-text h1{
+    color: #000000;
+    padding-bottom: 15px;
+}
+
+#about-container-1 .about-text p{
+    color: #000000;
+    font-size: 20px;
+    line-height: 28px;
+    text-align: justify;
+    font-weight: 400;
+}
+
+
+#about-container-2{
+    display: flex;
+    align-items: center;
+    padding: 8vw 2vw 4vw 8vw;
+    transition: 0.3s ease;
+    margin-top: 2vw;
+    background-color: #e6e8e9e6;
+}
+
+#about-container-2:hover{
+    box-shadow: 28px 20px 35px rgba(0,0,0,0.3);
+
+}
+
+#about-container-2 .about-img-1{
+    width: 50%;
+    padding-left: 60px;
+}
+
+#about-container-2 .about-img-1 img{
+    width: 100%;
+}
+
+#about-container-2 .about-text-1{
+    width: 60%;
+}
+
+#about-container-2 .about-text-1{
+    font-family: 'Source Sans Pro', sans-serif
+}
+
+#about-container-2 .about-text-1 h1{
+    color: #000000;
+    padding-bottom: 15px;
+}
+
+#about-container-2 .about-text-1 p{
+    color: #000000;
+    font-size: 18px;
+    line-height: 26px;
+    font-weight: 400;
+}
+
+#space{
+    margin-top: 8vw;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ----Our Services---- -->
+    <!-- <section id="our-services">
+        <div class="vl"></div>
+        <div class="title-text">
+            <samp>&#x2022; OUR EXPERTISE</samp>
+            <h1>Our Services</h1>
+        </div>
+
+        <div class="service-box">
+            --------1------
+            <div class="single-service">
+                <img src="img/invest-1.jpg">
+                <div class="overlay"></div>
+                <div class="service-desc">
+                    <h2>Investment Advisory</h2>
+                    <hr>
+                    <p>Our panel of experts and analysts continually monitor the markets 
+                        of interest and suggest our clients in intraday and swing trades for 
+                        short term investing, besides long term hold in the markets.</p>
+                    <a href="investment-advisor.html">Read More <i class="fa-solid fa-arrow-right"></i></a>
+                </div>
+            </div>
+            --------End-------
+            --------2------
+            <div class="single-service">
+                <img src="img/working-1.jpeg">
+                <div class="overlay"></div>
+                <div class="service-desc">
+                    <h2>Broking</h2>
+                    <hr>
+                    <p>We are a fully licensed brokerage firm, delivering 
+                        real-time assistance to our clients for making above market average returns
+                         on their investment decisions.</p>
+                    <a href="broking.html">Read More <i class="fa-solid fa-arrow-right"></i></a>
+                </div>
+            </div>
+            --------End-------
+            --------3------
+            <div class="single-service">
+                <img class="img3" src="img/working.jpeg">
+                <div class="overlay"></div>
+                <div class="service-desc">
+                    <h2>Proprietary Trading Desk</h2>
+                    <hr>
+                    <p>Our in-house trading desk provides traders with tools,
+                         techniques and guidance for making trades in stocks, commodities, 
+                         forex and other derivatives..</p>
+                    <a href="proprietary-trading-desk.html">Read More <i class="fa-solid fa-arrow-right"></i></a>
+                </div>
+            </div>
+            --------End-------
+            --------4-------
+            <div class="single-service">
+                <img src="img/home2.jpeg">
+                <div class="overlay"></div>
+                <div class="service-desc">
+                    <h2>Education and Training</h2>
+                    <hr>
+                    <p>They say only 5% people who invest in the stock market, 
+                        understand it. Because of the prevalent misinformation, it’s 
+                        very difficult to make consistent returns on the stocks without proper knowledge.
+                    </p>
+                    <a href="education-and-training.html">Read More <i class="fa-solid fa-arrow-right"></i></a>
+                </div>
+            </div>
+            --------End-------
+        </div>
+    </section> -->
+    <!-- ----End---- -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ------Our Services-------- */
+
+.title-text{
+    text-align: center;
+    padding-bottom: 70px;
+}
+
+.title-text samp{
+    margin: 5px auto;
+    font-size: 18px;
+    color: #12a52b;
+    font-weight: 300;
+    position: relative;
+    display: inline-block;
+}
+
+.title-text h1{
+    font-size: 50px;
+    font-weight: 600;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.service-box{
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: auto;
+}
+
+.single-service{
+    flex-basis: 48%;
+    text-align: center;
+    border-radius: 7px;
+    margin-bottom: 20px;
+    color: #fff;
+    position: relative;
+}
+
+.single-service img{
+    width: 100%;
+    height: 350px;
+    border-radius: 10px;
+}
+
+.overlay{
+    width: 100%;
+    height: 350px;
+    position: absolute;
+    top: 0;
+    border-radius: 10px;
+    cursor: pointer;
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.9));
+    opacity: 0;
+    transition: 1s;
+}
+
+.single-service:hover .overlay{
+    opacity: 1;
+}
+
+.service-desc{
+    width: 80%;
+    position: absolute;
+    top: 30%;
+    bottom: 0;
+    left: 50%;
+    opacity: 0;
+    transform: translateX(-50%);
+    transition: 1s;
+}
+
+.service-desc h2{
+    font-size: 28px;
+    font-weight: 400;
+    font-family: 'Source Sans Pro', sans-serif
+}
+
+hr{
+    background: rgb(154, 35, 35);
+    height: 2px;
+    border: 0;
+    margin: 15px auto;
+    width: 60%;
+}
+
+.service-desc p{
+    font-size: 18px;
+    padding-bottom: 10px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.single-service:hover .service-desc{
+    bottom: 40%;
+    opacity: 1;
+}
+
+.service-desc a{
+    text-decoration: none;
+    color: #12a52b;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#our-services .vl {
+    border-left: 2px solid green;
+    height: 60px;
+    margin: 10% 50% 2% 50%;
+  }
+
+/* --------------------------- */
